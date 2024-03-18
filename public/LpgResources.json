@@ -138,25 +138,25 @@
                 {
                     "series_name": "627 Series",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-627-series-pressure-reducing-regulators-instruction-manual-fisher-en-en-6106180.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-627-series-pressure-reducing-regulators-bulletin-fisher-en-en-6106178.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-627-series-pressure-reducing-regulators-bulletin-fisher-en-en-6106178.pdf",
                     "isUpdated": "true"
                 },
                 {
                     "series_name": "630 Series",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-fisher-630-instruction-manual-fisher-en-en-8486828.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-630-regulator-bulletin-fisher-en-en-6108472.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-630-regulator-bulletin-fisher-en-en-6108472.pdf",
                     "isUpdated": "true"
                 },
                 {
                     "series_name": "99 Series",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-99-pressure-reducing-regulator-instruction-manual-fisher-en-en-6108442.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-99-pressure-reducing-regulators-bulletin-fisher-en-en-6108440.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-99-pressure-reducing-regulators-bulletin-fisher-en-en-6108440.pdf",
                     "isUpdated": "true"
                 },
                 {
                     "series_name": "1098-EGR Series",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-1098-egr-1098h-egr-pressure-reducing-regulators-instruction-manual-fisher-en-en-5969474.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-1098-egr-1098h-egr-pressure-reducing-regulators-bulletin-fisher-en-en-5976840.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-1098-egr-1098h-egr-pressure-reducing-regulators-bulletin-fisher-en-en-5976840.pdf",
                     "isUpdated": "true"
                 }
             ],
@@ -164,43 +164,43 @@
                 {
                     "series_name": "CS200 Series",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-cs200-series-commercial-industrial-pressure-reducing-regulators-instruction-manual-fisher-en-en-6106140.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-cs200-series-commercial-industrial-pressure-reducing-regulators-fisher-en-en-6106120.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-cs200-series-commercial-industrial-pressure-reducing-regulators-fisher-en-en-6106120.pdf",
                     "isUpdated": "true"
                 },
                 {
                     "series_name": "CS400 Series",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-cs400-series-commercial-industrial-pressure-reducing-regulators-instruction-manual-fisher-en-en-6106142.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-cs400-series-commercial-industrial-pressure-reducing-regulators-bulletin-fisher-en-en-6106138.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-cs400-series-commercial-industrial-pressure-reducing-regulators-bulletin-fisher-en-en-6106138.pdf",
                     "isUpdated": "true"
                 },
                 {
                     "series_name": "CS800 Series",
                     "asset_url": "https://www.emerson.com/documents/automation/data-sheets-cs800-series-commercial-industrial-pressure-reducing-regulators-for-north-america-fisher-en-en-6106108.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-cs800-series-commercial-industrial-pressure-reducing-regulators-for-north-america-fisher-en-en-6106108.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-cs800-series-commercial-industrial-pressure-reducing-regulators-for-north-america-fisher-en-en-6106108.pdf",
                     "isUpdated": "true"
                 },
                 {
                     "series_name": "Type 133H Series",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-133-series-direct-operated-regulators-instruction-manual-fisher-en-en-6106288.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-133-series-direct-operated-regulators-bulletin-fisher-en-en-6106290.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-133-series-direct-operated-regulators-bulletin-fisher-en-en-6106290.pdf",
                     "isUpdated": "true"
                 },
                 {
                     "series_name": "Type 133L Series",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-133-series-direct-operated-regulators-instruction-manual-fisher-en-en-6106288.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-133-series-direct-operated-regulators-bulletin-fisher-en-en-6106290.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-133-series-direct-operated-regulators-bulletin-fisher-en-en-6106290.pdf",
                     "isUpdated": "true"
                 },
                 {
                     "series_name": "299H Series",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-299h-series-pressure-reducing-regulators-fisher-en-en-6106242.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-299h-series-pressure-reducing-regulators-bulletin-fisher-en-en-6106240.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-299h-series-pressure-reducing-regulators-bulletin-fisher-en-en-6106240.pdf",
                     "isUpdated": "true"
                 },
                 {
                     "series_name": "99-500P Series",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-99-pressure-reducing-regulator-instruction-manual-fisher-en-en-6108442.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-99-pressure-reducing-regulators-bulletin-fisher-en-en-6108440.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-99-pressure-reducing-regulators-bulletin-fisher-en-en-6108440.pdf",
                     "isUpdated": "true"
                 }
             ],
@@ -208,19 +208,19 @@
                 {
                     "series_name": "Type MR98H",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-mr98-series-instruction-manual-fisher-en-en-5985988.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-mr98-series-backpressure-regulators-reliefand-differential-relief-valves-bulletin-fisher-en-en-5985984.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-mr98-series-backpressure-regulators-reliefand-differential-relief-valves-bulletin-fisher-en-en-5985984.pdf",
                     "isUpdated": "true"
                 },
                 {
                     "series_name": "Type 289H",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-289-series-relief-valves-instruction-manual-fisher-en-en-6106264.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-289-series-spring-loaded-relief-valves-bulletin-fisher-en-en-6106262.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-289-series-spring-loaded-relief-valves-bulletin-fisher-en-en-6106262.pdf",
                     "isUpdated": "true"
                 },
                 {
                     "series_name": "Type 1805",
                     "asset_url": "https://www.emerson.com/documents/automation/manuals-1805-series-relief-valves-instruction-manual-fisher-en-en-6106278.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-1805-series-relief-valves-bulletin-fisher-en-en-6106282.pdf",
+                    "bulletin_asset_url": "https://www.emerson.com/documents/automation/data-sheets-1805-series-relief-valves-bulletin-fisher-en-en-6106282.pdf",
                     "isUpdated": "true"
                 }
             ]
